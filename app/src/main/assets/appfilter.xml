@@ -13,6 +13,10 @@
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="calendar_12" />
 
+
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp}"
+        drawable="ic_launcher" />
+
     <!-- Calendar -->
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
         drawable="calendar2_12" />

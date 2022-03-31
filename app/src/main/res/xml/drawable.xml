@@ -3,6 +3,7 @@
     <version>1</version>
 
     <category title="Group 1" />
+    <item drawable="ic_launcher" />
     <item drawable="icon_1" />
     <item drawable="icon_2" />
     <item drawable="icon_3" />
