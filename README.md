@@ -1,3 +1,6 @@
+# Video Example:
+https://photos.app.goo.gl/f65wxAveYAKggJz39
+
 # CandyBar Sample
 [![JitPack Version](https://jitpack.io/v/zixpo/candybar.svg)](https://jitpack.io/#zixpo/candybar)
 [![Build Status](https://api.travis-ci.com/zixpo/candybar-sample.svg?branch=master)](https://travis-ci.com/zixpo/candybar-sample)
